@@ -2,6 +2,7 @@
 
 Predicting customer churn in the telecommunications industry is crucial for companies to retain customers and improve overall profitability. This repository contains a predictive model for identifying customers at risk of churn, along with tools and resources for analyzing churn patterns and implementing strategies to mitigate customer attrition. Watch the YouTube video below for a quick overview:
 
+| ![Overview](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/cf48559ced3f5daa0bf7417966d2153219b0f9ed/assets/overview.jpg)
 
 ---
 
@@ -80,11 +81,11 @@ Explore profound insights and analytics gleaned from our extensive dataset. Unco
 | Feature                                      | Visualization                                                                                       |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Categorical Features                         | ![Categorical Features](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/c54b16b32f1baa0621c2f0e3f6401316e299f6b5/assets/catg_features.png)   |
-| Churn Target Variable                        | ![Churn Target Variable](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/681e2805-d61e-4d56-be55-fa0495a5bfd5)  |
-| Customer Information                         | ![Customer Information](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/234d902f-f514-4d2f-b28a-6d5813c67909)   |
-| Distribution Analysis                        | ![Distribution Analysis](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/e72dbd50-9c94-4c44-bf89-1b3baa090a64)   |
-| Mean Tenure                                  | ![Mean Tenure](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/0f8feb7e-d723-4061-beb6-62275d6a54b9)         |
-| Churn Tenure Analysis                        | ![Screenshot](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/5942dbb4-47c7-467e-a075-14dc47ca7572)          |
+| Churn Target Variable                        | ![Churn Target Variable](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/cf48559ced3f5daa0bf7417966d2153219b0f9ed/assets/churn_target_variable.png)  |
+| Customer Information                         | ![Customer Information](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/cf48559ced3f5daa0bf7417966d2153219b0f9ed/assets/cust_info.png)   |
+| Distribution Analysis                        | ![Distribution Analysis](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/cf48559ced3f5daa0bf7417966d2153219b0f9ed/assets/distbn.png)   |
+| Mean Tenure                                  | ![Mean Tenure](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/cf48559ced3f5daa0bf7417966d2153219b0f9ed/assets/mean_tenure.png)         |
+|
 
 
 ---
@@ -95,7 +96,7 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 | Overview and Key Metrics | Attrition Insights |
 |---------------|-------------|
-| ![Overview](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/18855f1b-fefe-4317-bede-fb8219d67e9f) | ![detailed_insights](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/7c068b03-4cdb-4659-b3e3-c15dc481cd59) |
+| ![Overview](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/cf48559ced3f5daa0bf7417966d2153219b0f9ed/assets/overview.jpg) | ![detailed_insights](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/cf48559ced3f5daa0bf7417966d2153219b0f9ed/assets/detailed_insights.jpg) |
 | Gain a high-level view of customer churn trends, contract preferences, and revenue impact. This interactive dashboard provides insights into overall churn metrics and key business indicators. | Explore detailed analytics on customer segments, service usage patterns, and churn predictors. This visualization offers a deeper dive into specific data points and trends influencing churn decisions. |
 
 
