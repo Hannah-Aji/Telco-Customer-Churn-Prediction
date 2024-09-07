@@ -185,13 +185,6 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 **Upon accessing the interface, you'll encounter a user-friendly web application. Take time to familiarize yourself with its features and explore the various options available for predicting outcomes.**
 
-
-| Details | Prediction |
-|---------|---------|
-| ![Image 1](https://github.com/vHannah-Ajibola/Telecom-Customer-Churn-Prediction-ML-PowerBI/assets/143819712/9666462b-b639-4ba4-8739-ad43b9ae80f5) | ![Image 2](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction-ML-PowerBI/assets/143819712/25373380-8e11-4b4e-9673-651b0dd90f90) |
-
-
-
 - **Input Customer Data:** Refer to the on-screen instructions for guidance on entering customer data into the system. Once entered, explore the prediction feature to forecast churn outcomes based on the data provided.
   
 - **Analyze Results:** Review the prediction outcomes to gather insights and formulate strategies, such as designing targeted promotions, and effectively applying the project to specific scenarios, such as implementing enticing customer offers.
