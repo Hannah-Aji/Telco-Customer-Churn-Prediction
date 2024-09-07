@@ -4,7 +4,6 @@ Predicting customer churn in the telecommunications industry is crucial for comp
 
 ---
 
-[![Watch the video](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/9887363c-ab37-4c8b-bc7b-d194de980df7)](https://youtu.be/Gyn0tUcPSiA?si=S_o_kkJSe6mDmy3s)
 
 ---
 
@@ -225,7 +224,4 @@ Feel free to adapt the above steps based on your specific use case and programmi
 
 ---
 
-### Connect With Me 
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada)**
 
