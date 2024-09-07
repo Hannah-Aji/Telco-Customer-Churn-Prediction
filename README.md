@@ -79,7 +79,7 @@ Explore profound insights and analytics gleaned from our extensive dataset. Unco
 
 | Feature                                      | Visualization                                                                                       |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Categorical Features                         | ![Categorical Features](https://raw.githubusercontent.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/main/assets/143819712/ce2e270e-2118-41b5-8207-1fccd2e98982.png)   |
+| Categorical Features                         | ![Categorical Features](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/blob/c54b16b32f1baa0621c2f0e3f6401316e299f6b5/assets/catg_features.png)   |
 | Churn Target Variable                        | ![Churn Target Variable](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/681e2805-d61e-4d56-be55-fa0495a5bfd5)  |
 | Customer Information                         | ![Customer Information](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/234d902f-f514-4d2f-b28a-6d5813c67909)   |
 | Distribution Analysis                        | ![Distribution Analysis](https://github.com/Hannah-Ajibola/Telecom-Customer-Churn-Prediction/assets/143819712/e72dbd50-9c94-4c44-bf89-1b3baa090a64)   |
